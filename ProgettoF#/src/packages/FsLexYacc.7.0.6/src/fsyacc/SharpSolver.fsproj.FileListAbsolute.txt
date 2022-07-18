@@ -1,0 +1,87 @@
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe.config
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.XML
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.pdb
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.xml
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.xml
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsprojAssemblyReference.cache
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe.config
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsproj.CopyComplete
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe
+C:\Users\Admin\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.pdb
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe.config
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.XML
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.pdb
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.xml
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.xml
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.xml
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\cs\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\de\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\en\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\es\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\fr\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\it\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ja\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ko\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pl\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pt-BR\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ru\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\tr\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsprojAssemblyReference.cache
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe.config
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsproj.CopyComplete
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe
+E:\Users\NamelessKing\Google Drive\Università\Anno_18_19\IntroProgrammazione\f#\modulo1\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.pdb
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\SharpSolver.exe.config
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\SharpSolver.XML
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\SharpSolver.exe
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\SharpSolver.pdb
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\FSharp.Core.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\System.ValueTuple.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\FSharp.Core.xml
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.xml
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\System.ValueTuple.xml
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\ADRIT\Desktop\SharpSolver\src\obj\Debug\SharpSolver.fsprojAssemblyReference.cache
+C:\Users\ADRIT\Desktop\SharpSolver\src\obj\Debug\SharpSolver.exe.config
+C:\Users\ADRIT\Desktop\SharpSolver\src\obj\Debug\SharpSolver.fsproj.CopyComplete
+C:\Users\ADRIT\Desktop\SharpSolver\src\obj\Debug\SharpSolver.exe
+C:\Users\ADRIT\Desktop\SharpSolver\src\obj\Debug\SharpSolver.pdb
